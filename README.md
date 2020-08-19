@@ -4,6 +4,8 @@
 git clone https://github.com/interplanetaryreservecurrency/UNIVERSAL.git
 ```
 
+* cd UNIVERSAL**
+
 **2. Modify `CryptoNoteWallet.cmake`**
  
 ```
@@ -24,7 +26,6 @@ Alternative way is to create git submodule:
 git submodule add https://github.com/interplanetaryreservecurrency/latnum.git cryptonote
 ```
 
-cd UNIVERSAL.
 
 **4. Build**
 
