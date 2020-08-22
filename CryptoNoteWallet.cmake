@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "latnum")
+set(CN_PROJECT_NAME "Latnum")
 set(CN_CURRENCY_DISPLAY_NAME "latnum")
 set(CN_CURRENCY_TICKER "LTN")

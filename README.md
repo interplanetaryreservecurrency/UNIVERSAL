@@ -23,7 +23,7 @@ ln -s ../latnum cryptonote
 Alternative way is to create git submodule:
 
 ```
-git submodule add https://github.com/interplanetaryreservecurrency/latnum.git cryptonote
+git submodule add https://github.com/interplanetaryreservecurrency/Latnum.git cryptonote
 ```
 
 
